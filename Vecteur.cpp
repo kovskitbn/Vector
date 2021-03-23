@@ -1,7 +1,6 @@
 #include <iostream>
 #include "Vecteur.hpp"
-#include <string>
-#include <math.h>
+
 
 Vector::Vector(double _x , double _y, double _z){
     x = _x;
